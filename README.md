@@ -34,10 +34,6 @@ Each problem includes:
 - Solution code.
 - Detailed comments and explanations to walk you through the approach.
 
-### 3. Assessment Practice
-
-This section is all about getting you ready for the real deal. You’ll find timed exercises that simulate the environment of an actual technical assessment, with guidance and tips for tackling each type of problem (Data Structures & Algorithms, SQL, APIs).
-
 ## Learning Resources
 
 I’m using **InterviewCake** and **Zenva** as my main learning resources. They’re fantastic for breaking down complex topics into digestible lessons and actionable examples.
