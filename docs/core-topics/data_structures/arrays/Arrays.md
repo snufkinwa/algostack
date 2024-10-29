@@ -21,7 +21,7 @@ Picture an **array** like a sushi conveyor belt. Each plate (or **index**) has a
 
 ### Example in Java
 
-Here’s how you might set up your sushi plates in JavaScript:
+Here’s how you might set up your sushi plates in Java:
 
 ```java
 // Initializing a conveyor belt of sushi plates with a fixed size
