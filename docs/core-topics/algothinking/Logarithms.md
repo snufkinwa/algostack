@@ -11,7 +11,7 @@ Logarithms help us measure efficiency in algorithms by telling us how many steps
 Imagine we’re on a mission to find the page in _The Two Towers_ where Sam talks about “po-ta-toes.” Instead of starting at page one and flipping through every page, we open the book right in the middle. If we don’t find Sam’s potato part there, we close the half where we know it can’t be and look in the middle of what’s left.
 
 <p align="center">
-<img src= "https://media1.tenor.com/m/pah6cIxA5GAAAAAd/hobbit-sam2015.gif" width="300"></p>
+<img src= "https://media1.tenor.com/m/tw8_IJEABakAAAAC/potatoes-sam.gif" width="500"></p>
 
 We keep opening to the middle of what’s left, and every time we do, there’s less and less of the book to check. Soon, we’re down to the exact page where Sam talks about “taters.” This halving trick is what a logarithm counts—it tells we how many times we need to split the book until we find exactly what we’re looking for.
 
