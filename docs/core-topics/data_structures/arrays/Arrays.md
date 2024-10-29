@@ -19,16 +19,19 @@ Picture an **array** like a sushi conveyor belt. Each plate (or **index**) has a
 - **Append (if space available)**: \(O(1)\), if there’s room for more plates on the belt.
 - **Insert/Delete**: \(O(n)\) in the worst case, since all plates might need to be shifted around.
 
-### Example in JavaScript
+### Example in Java
 
 Here’s how you might set up your sushi plates in JavaScript:
 
-```javascript
-// Initializing a conveyor belt of sushi plates and adding elements
-const sushiPlates = [];
+```java
+// Initializing a conveyor belt of sushi plates with a fixed size
+String[] sushiPlates = new String[3];
+
+// Adding elements to the array
 sushiPlates[0] = "Salmon Nigiri";
 sushiPlates[1] = "Fatty Tuna Sashimi";
 sushiPlates[2] = "Eel Hand Roll";
+
 ```
 
 <p align="center">
