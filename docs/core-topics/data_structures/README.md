@@ -26,9 +26,9 @@ Fast, ordered collections with direct access by index. Perfect for fixed-size da
 
 Flexible and resizable – Python’s lists let you add and adjust on the go. Great for dynamic collections. [Learn more](./lists/Lists.md)
 
-### Trees
+### Graphs (Trees)
 
-Hierarchical structures with a root and branches. Think sorted data and efficient lookups. [Learn more](./trees/Trees.md)
+Hierarchical structures with a root and branches. Think sorted data and efficient lookups. [Learn more](./graph/Graphs.md)
 
 ### Dictionaries (Hash Tables)
 

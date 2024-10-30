@@ -1,4 +1,4 @@
-# Graphs 🌌🪐✨
+# Graphs (Trees) 🌌🪐✨
 
 Imagine you’re an astronaut traveling to distant planets connected by mysterious wormholes! In computer science, **graphs** are like space maps that help us understand how planets and other things connect.
 
@@ -58,7 +58,7 @@ Here’s a simple galactic map in a tree structure, showing how nodes and edges 
 3. **Cyclic and Acyclic**:
 
    - **Cyclic Graph**: If you can loop back to where you started, it’s like a roundabout in space.
-   - **Acyclic Graph**: No loops, just paths to explore with no way to end up back where you began.
+   - **Acyclic Graph**: No loops, just paths to explore with no way to end up back where you began. **Trees** are special kinds of acyclic graphs with one root and multiple branches.
 
 4. **Coloring**:
    - **Legal Coloring**: This means no two planets connected by a wormhole have the same color.
