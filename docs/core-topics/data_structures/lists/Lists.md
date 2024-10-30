@@ -135,7 +135,7 @@ In programming, a **list** (or dynamic array) is like Sailor Moon’s collection
    - **Check for Specific Brooch:**
      ```python
      if "Prism Compact" in brooch_collection:
-         print("Brooch not found!")
+         print("Brooch found!")
      ```
 
 [Check out the practice section!](./practice/Practice.md)
