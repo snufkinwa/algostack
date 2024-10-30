@@ -1,4 +1,4 @@
-# Graphs (Trees) 🌌🪐✨
+# Graphs 🌌🪐✨
 
 Imagine you’re an astronaut traveling to distant planets connected by mysterious wormholes! In computer science, **graphs** are like space maps that help us understand how planets and other things connect.
 
@@ -15,28 +15,23 @@ A **graph** is a special map with two main parts:
 
 So, a graph is simply a collection of planets (nodes) connected by paths (edges).
 
----
-
-#### Example: Galactic Tree Map
-
-Here’s a simple galactic map in a tree structure, showing how nodes and edges might appear in space.
+Imagine this graph as a small section of space:
 
 ```
-       Galactic Map
-     -----------------
-        Galaxy Core      <-- root
-           |
-           |
-         Planet A       <-- first exploration
-        /         \
-   Nebula B       Planet C
-    |
-    |
- Asteroid Belt D
-
+           Planet A            <- node
+           /      \
+       (edge)      (edge)
+         /            \
+    Planet B         Planet C     <- nodes
+         |               |
+       (edge)         (edge)
+         |               |
+    Planet D         Planet E     <- nodes
 ```
 
----
+Here, you can travel from Planet A to Planets B and C, and each edge represents a possible route.
+
+Graphs can be as simple as this small map or as complex as a galaxy-wide network, where each node and edge reveals new possibilities for exploration!
 
 #### Why Graphs are Cool (Strengths and Weaknesses)
 
