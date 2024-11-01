@@ -1,6 +1,6 @@
 # Graphs 🌌🪐✨
 
-Imagine you’re an astronaut traveling to distant planets connected by mysterious wormholes! In computer science, **graphs** are like space maps that help us understand how planets and other things connect.
+You’re an astronaut traveling to distant planets connected by mysterious wormholes! In computer science, **graphs** are like space maps that help us understand how planets and other things connect.
 
 <p align="center">
 <img src="https://media1.tenor.com/m/lhhcz6ynjx8AAAAd/interstellar-wormhole.gif">
