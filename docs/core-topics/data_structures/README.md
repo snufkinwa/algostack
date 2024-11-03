@@ -8,15 +8,12 @@ Welcome to the **Data Structures** hub! Think of this as your toolkit for master
 
 1. [Arrays](#arrays)
 2. [Lists (Dynamic Arrays)](#lists-dynamic-arrays)
-3. [Graphs](#graphs)
-4. [Trees](#trees)
-5. [Dictionaries (Hash Tables)](#dictionaries-hash-tables)
+3. [Linked Lists](#linked-lists)
+4. [Graphs](#graphs)
+5. [Trees](#trees)
+6. [Dictionaries (Hash Tables)](#dictionaries-hash-tables)
 
 ---
-
-## Core Data Structures
-
-Get ready to dive into these must-know data structures:
 
 ### Arrays
 
@@ -25,6 +22,10 @@ Quick, ordered collections with direct access by index—great for fixed-size da
 ### Lists (Dynamic Arrays)
 
 Flexible and resizable, Python’s lists let you add and adjust on the go—perfect for growing collections. [Learn more](./lists/Lists.md)
+
+### Linked Lists
+
+A flexible, sequential structure where each element points to the next, like stations on a train route. Great for dynamic additions and deletions when index access isn't crucial. [Learn more](./linked_lists/LinkedList.md)
 
 ### Graphs
 
@@ -43,6 +44,7 @@ Key-value pairs for lightning-fast lookups. Ideal for storing unique identifiers
 ### Choosing the Right Data Structure 🌟
 
 - **Arrays/Lists**: For fast index access and when order matters—like a neatly ordered shelf.
+- **Linked Lists**: For dynamic additions and deletions without shifting elements—perfect for when you need flexibility without strict index access.
 - **Trees**: For hierarchy and efficient searching and sorting—think of them as natural organizers.
 - **Dictionaries**: The go-to for fast lookups by unique keys—perfect for mapping one-to-one data.
 - **Graphs**: For complex relationships, like social networks or transportation maps.
