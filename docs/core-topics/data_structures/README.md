@@ -12,6 +12,7 @@ Welcome to the **Data Structures** hub! Think of this as your toolkit for master
 4. [Graphs](#graphs)
 5. [Trees](#trees)
 6. [Dictionaries (Hash Tables)](#dictionaries-hash-tables)
+7. [Stack](#stack)
 
 ---
 
@@ -38,6 +39,10 @@ Trees are hierarchical structures with roots and branches, great for sorted data
 ### Dictionaries (Hash Tables)
 
 Key-value pairs for lightning-fast lookups. Ideal for storing unique identifiers! [Learn more](./dictionaries/Dictionaries.md)
+
+### Stack
+
+A stack is a “Last In, First Out” (LIFO) structure where the last item added is the first to be removed. Perfect for scenarios like undo operations or managing function calls. [Learn more](./stack/Stack.md)
 
 ---
 
