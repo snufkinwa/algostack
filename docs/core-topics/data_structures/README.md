@@ -13,6 +13,7 @@ Welcome to the **Data Structures** hub! Think of this as your toolkit for master
 5. [Trees](#trees)
 6. [Dictionaries (Hash Tables)](#dictionaries-hash-tables)
 7. [Stack](#stack)
+8. [Queues](#queues)
 
 ---
 
@@ -43,6 +44,10 @@ Key-value pairs for lightning-fast lookups. Ideal for storing unique identifiers
 ### Stack
 
 A stack is a “Last In, First Out” (LIFO) structure where the last item added is the first to be removed. Perfect for scenarios like undo operations or managing function calls. [Learn more](./stack/Stack.md)
+
+### Queue
+
+A queue is a **"First In, First Out" (FIFO)** structure where the first item added is the first one to be removed. Useful in situations where tasks need to be handled in the order they arrive, like processing print jobs or managing customer service requests. [Learn more](./queue/Queue.md)
 
 ---
 
