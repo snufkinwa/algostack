@@ -427,9 +427,3 @@ while heap:
             distances[nei] = dist
             heappush(heap, (dist, nei))
 ```
-
----
-
-```python
-
-```
