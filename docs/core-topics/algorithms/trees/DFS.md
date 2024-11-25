@@ -1,6 +1,6 @@
 Template for dfs
 
-Use DFS to use less memory for wide graphs/ Find nodes far away from root like looking in a maze.
+Use DFS to use less memory for wide graphs/ Find nodes far away from root like looking in a maze. DFS uses recursion/stack to keep track of progress.
 
 ```python
 function dfs(node, state):
